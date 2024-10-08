@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("tutoral2-5")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("textboxdemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5c9715bca9ef6af63c04235bd433f1216b2b25b")]
-[assembly: System.Reflection.AssemblyProductAttribute("tutoral2-5")]
-[assembly: System.Reflection.AssemblyTitleAttribute("tutoral2-5")]
+[assembly: System.Reflection.AssemblyProductAttribute("textboxdemo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("textboxdemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

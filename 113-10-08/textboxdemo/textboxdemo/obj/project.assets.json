@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shu\\Desktop\\113-1-C_sharp\\113-10-08\\tutorIal2-5\\tutoral2-5\\tutoral2-5.csproj",
-      "projectName": "tutoral2-5",
-      "projectPath": "C:\\Users\\shu\\Desktop\\113-1-C_sharp\\113-10-08\\tutorIal2-5\\tutoral2-5\\tutoral2-5.csproj",
+      "projectUniqueName": "C:\\Users\\shu\\Desktop\\113-1-C_sharp\\113-10-08\\textboxdemo\\textboxdemo\\textboxdemo.csproj",
+      "projectName": "textboxdemo",
+      "projectPath": "C:\\Users\\shu\\Desktop\\113-1-C_sharp\\113-10-08\\textboxdemo\\textboxdemo\\textboxdemo.csproj",
       "packagesPath": "C:\\Users\\shu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shu\\Desktop\\113-1-C_sharp\\113-10-08\\tutorIal2-5\\tutoral2-5\\obj\\",
+      "outputPath": "C:\\Users\\shu\\Desktop\\113-1-C_sharp\\113-10-08\\textboxdemo\\textboxdemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
