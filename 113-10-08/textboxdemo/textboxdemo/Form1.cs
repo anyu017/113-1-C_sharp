@@ -9,13 +9,15 @@ namespace textboxdemo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string fullname¡G
-¡@¡@¡@¡@¡@¡@string firstname¡G
-            string lastname¡G
+            string fullname;
+            string firstname;
+            string lastname;
 
-                firstname = txtfirstname.Text
-                lastname = txtlastname.Text
-                fullname = lastname+""+firstname¡F
+            firstname = txtfirstname.Text;
+            lastname = txtlastname.Text;
+            fullname = lastname+" "+firstname;
+
+            lblshow.Text = fullname;
         }
     }
 }

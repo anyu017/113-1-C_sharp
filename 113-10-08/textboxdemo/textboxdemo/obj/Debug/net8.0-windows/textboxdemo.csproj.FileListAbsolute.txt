@@ -6,3 +6,13 @@ C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\n
 C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\textboxdemo.AssemblyInfo.cs
 C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\textboxdemo.csproj.CoreCompileInputs.cache
 C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\textboxdemo.sourcelink.json
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\bin\Debug\net8.0-windows\textboxdemo.exe
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\bin\Debug\net8.0-windows\textboxdemo.deps.json
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\bin\Debug\net8.0-windows\textboxdemo.runtimeconfig.json
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\bin\Debug\net8.0-windows\textboxdemo.dll
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\bin\Debug\net8.0-windows\textboxdemo.pdb
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\textboxdemo.dll
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\refint\textboxdemo.dll
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\textboxdemo.pdb
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\textboxdemo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-08\textboxdemo\textboxdemo\obj\Debug\net8.0-windows\ref\textboxdemo.dll

@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\bin\Debug\net8.0-windows\yuyorial3-2.exe
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\bin\Debug\net8.0-windows\yuyorial3-2.deps.json
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\bin\Debug\net8.0-windows\yuyorial3-2.runtimeconfig.json
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\bin\Debug\net8.0-windows\yuyorial3-2.dll
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\bin\Debug\net8.0-windows\yuyorial3-2.pdb
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3_2.Form1.resources
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.AssemblyInfo.cs
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.sourcelink.json
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.dll
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\refint\yuyorial3-2.dll
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.pdb
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\yuyorial3-2.genruntimeconfig.cache
+C:\Users\shu\Desktop\113-1-C_sharp\113-10-18\yuyorial3-2\yuyorial3-2\obj\Debug\net8.0-windows\ref\yuyorial3-2.dll
