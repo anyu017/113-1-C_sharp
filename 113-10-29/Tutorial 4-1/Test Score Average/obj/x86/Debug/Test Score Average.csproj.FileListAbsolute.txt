@@ -33,3 +33,13 @@ C:\Users\shu\Desktop\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj
 C:\Users\shu\Desktop\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\bin\Debug\Test Score Average.exe.config
 C:\Users\shu\Desktop\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\bin\Debug\Test Score Average.exe
 C:\Users\shu\Desktop\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\bin\Debug\Test Score Average.exe.config
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\bin\Debug\Test Score Average.exe
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.csproj.AssemblyReference.cache
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test_Score_Average.Form1.resources
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.csproj.GenerateResource.cache
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.csproj.CoreCompileInputs.cache
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.exe
+C:\Users\alice\OneDrive\桌面\113-1-C_sharp\113-10-29\Tutorial 4-1\Test Score Average\obj\x86\Debug\Test Score Average.pdb

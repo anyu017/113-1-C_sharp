@@ -21,32 +21,31 @@ namespace Test_Score_Average
 
         private void calculateButton_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void clearButton_Click(object sender, EventArgs e)
-        {
-            double test1,test2,test3,average;
-            const double HIGH_SCORE = 95.0;
-
             try
-            { test1 = double.Parse(test1TextBox.Text);
+            { 
+                double test1, test2, test3, average;
+                const double HIGH_SCORE = 95.0;
+
+                test1 = double.Parse(test1TextBox.Text);
                 test2 = double.Parse(test2TextBox.Text);
                 test3 = double.Parse(test3TextBox.Text);
 
                 average = (test1 + test2 + test3) / 3.0;
                 averageLabel.Text = average.ToString("n1");
 
-                    if (average > HIGH_SCORE)
-                    {
-                        MessageBox.Show("恭喜幹的好");
-                    }
-            }
-             catch (Exception ex)
-              {
+                if (average > HIGH_SCORE)
+                {
+                    MessageBox.Show("恭喜幹的好");
+                }
+                }
+                catch (Exception ex)
+                {
                 MessageBox.Show(ex.Message);
-              }
-            
+                }
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {                     
             // Clear the TextBoxes and the averageLabel control.
             test1TextBox.Text = "";
             test2TextBox.Text = "";
