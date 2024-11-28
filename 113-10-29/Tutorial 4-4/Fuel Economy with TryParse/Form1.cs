@@ -19,7 +19,27 @@ namespace Fuel_Economy_with_TryParse
 
         private void calculateButton_Click(object sender, EventArgs e)
         {
-            
+            double miles;
+            double gallons;
+            double mpg;
+
+            if(double.TryParse(milesTextBox.Text,out miles))
+            {
+                if (double.TryParse(gallonsTextBox.Text,out gallons))
+                {
+                    mpg = miles / gallons;
+
+                    mpgLabel.Text = mpg.ToString("n1");
+                }     
+                else
+                {
+                        MessageBox.Show("Invalid input for gallons.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Invalid input for miles.");
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)

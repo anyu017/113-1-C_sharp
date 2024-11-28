@@ -19,7 +19,34 @@ namespace Time_Zone
 
         private void okButton_Click(object sender, EventArgs e)
         {
-           
+           string city;
+
+            if (cityListBox.SelectedIndex != -1)
+            {
+                city = cityListBox.SelectedItem.ToString();
+                switch(city)
+                {
+                    case "Honolulu":
+                        timeZoneLabel.Text = "Hawaii-Aleutian";
+                        break;
+                    case "San Francisco":
+                        timeZoneLabel.Text = "Pacific";
+                        break;
+                    case "Denver":
+                        timeZoneLabel.Text = "Mountain";
+                        break;
+                    case "Minneapolis":
+                        timeZoneLabel.Text = "Central";
+                        break;
+                    case "New York":
+                        timeZoneLabel.Text = "Eastern";
+                        break;
+                }
+            }
+            else
+            {
+                MessageBox.Show("Select a city.");
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)
