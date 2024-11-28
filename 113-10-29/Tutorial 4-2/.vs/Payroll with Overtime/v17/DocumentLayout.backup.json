@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Chapter 04\\Tutorial 4-2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\alice\\OneDrive\\\u684C\u9762\\113-1-C_sharp\\113-10-29\\Tutorial 4-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96182D1A-AD11-4145-8DF8-293D3E45E03C}|Payroll with Overtime\\Payroll with Overtime.csproj|c:\\users\\alice\\onedrive\\\u684C\u9762\\113-1-c_sharp\\113-10-29\\tutorial 4-2\\payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96182D1A-AD11-4145-8DF8-293D3E45E03C}|Payroll with Overtime\\Payroll with Overtime.csproj|solutionrelative:payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96182D1A-AD11-4145-8DF8-293D3E45E03C}|Payroll with Overtime\\Payroll with Overtime.csproj|C:\\Users\\alice\\OneDrive\\\u684C\u9762\\113-1-C_sharp\\113-10-29\\Tutorial 4-2\\payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96182D1A-AD11-4145-8DF8-293D3E45E03C}|Payroll with Overtime\\Payroll with Overtime.csproj|solutionrelative:payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\alice\\OneDrive\\\u684C\u9762\\113-1-C_sharp\\113-10-29\\Tutorial 4-2\\Payroll with Overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll with Overtime\\Form1.cs",
+              "ToolTip": "C:\\Users\\alice\\OneDrive\\\u684C\u9762\\113-1-C_sharp\\113-10-29\\Tutorial 4-2\\Payroll with Overtime\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Payroll with Overtime\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:34:59.795Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\OneDrive\\\u684C\u9762\\113-1-C_sharp\\113-10-29\\Tutorial 4-2\\Payroll with Overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll with Overtime\\Form1.cs",
+              "ToolTip": "C:\\Users\\alice\\OneDrive\\\u684C\u9762\\113-1-C_sharp\\113-10-29\\Tutorial 4-2\\Payroll with Overtime\\Form1.cs",
+              "RelativeToolTip": "Payroll with Overtime\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:38:34.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
